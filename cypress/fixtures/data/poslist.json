@@ -1,0 +1,72 @@
+{
+    "key_0": {
+        "value": 1,
+        "width": 80,
+        "height": 450
+    },
+    "key_1": {
+        "value": 1,
+        "width": 80,
+        "height": 350
+    },
+    "key_2": {
+        "value": 2,
+        "width": 150,
+        "height": 350
+    },
+    "key_3": {
+        "value": 3,
+        "width": 200,
+        "height": 350
+    },
+    "key_4": {
+        "value": 4,
+        "width": 80,
+        "height": 300
+    },
+    "key_5": {
+        "value": 5,
+        "width": 150,
+        "height": 300
+    },
+    "key_6": {
+        "value": 6,
+        "width": 200,
+        "height": 300
+    },
+    "key_7": {
+        "value": 7,
+        "width": 80,
+        "height": 250
+    },
+    "key_8": {
+        "value": 8,
+        "width": 150,
+        "height":250
+    },
+    "key_9": {
+        "value": 9,
+        "width": 200,
+        "height": 250
+    },
+    "key_10": {
+        "value": "+",
+        "width": 250,
+        "height": 450
+    },
+    "key_11": {
+        "value": "-",
+        "width": 250,
+        "height": 400
+    },
+    "key_12": {
+        "value": "x",
+        "width": 250,
+        "height": 300
+    },
+    "key_13": {
+        "value": "/",
+        "width": 250,
+        "height": 250
+    }
+}
